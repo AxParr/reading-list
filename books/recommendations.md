@@ -1,2 +1,4 @@
 - Dune by Frank Herbert
 - Pride and Prejudice by Jane Austen
+- 1984 by George Orwell
+- The Great Gatsby by F. Scott Fitzgerald
